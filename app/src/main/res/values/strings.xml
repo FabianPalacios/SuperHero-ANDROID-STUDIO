@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperHero</string>
+    <string name="superhero">SuperHero</string>
+    <string name="search">Buscar</string>
+    <string name="imagesuperhero">ImageSuperHero</string>
+    <string name="empty">It can\'t be empty</string>
+    <string name="close">Close</string>
+    <string name="no_exist">Superhero does not exist</string>
+</resources>

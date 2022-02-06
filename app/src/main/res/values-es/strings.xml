@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperHero</string>
+    <string name="superhero">Super Hero</string>
+    <string name="close">Cerrar</string>
+    <string name="empty">No puede ser vacío</string>
+    <string name="search">Buscar</string>
+    <string name="imagesuperhero">ImageSuperHero</string>
+    <string name="no_exist">Superhéroe no existe</string>
+</resources>
